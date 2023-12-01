@@ -2,7 +2,7 @@
 - 👀 I’m interested in making new projects and to make it more attractive and innovative
 - 🌱 I’m currently learning B.Tech (CSE)
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me through my email which id spanchal1412@gmail.com
+- 📫 How to reach me - through my linkedin (https://www.linkedin.com/in/shruti-panchal-539303217/)
 
 <!---
 Shruti-panchal/Shruti-panchal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
