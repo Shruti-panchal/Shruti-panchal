@@ -13,6 +13,7 @@ I hold a Bachelor of Technology in Computer Science and Engineering from Dr. A.P
 💼 Professional Experience:
 
 Backend Developer at Dreambig IT Solutions India Pvt. Ltd.
+
 **CTF Skill Development Platform:**
 
 Enhanced Python Flask codebase for improved functionality and user experience.
@@ -37,7 +38,9 @@ Version Control: Git
 🏆 Awards & Achievements:
 
 10th ASN Yamuna Wealth Delhi State Ranking Inter School Badminton Championship
+
 Placement Head/Coordinator
+
 Smart India Hackathon
 
 🌐 Let's Connect:
